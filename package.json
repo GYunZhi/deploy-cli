@@ -1,5 +1,5 @@
 {
-    "name": "deploy-cli",
+    "name": "light-deploy-cli",
     "version": "1.0.0",
     "description": "A cli tool for web deploy.",
     "bin": {
@@ -11,7 +11,7 @@
         "deploy"
     ],
     "author": "GYunZhi",
-    "license": "ISC",
+    "license": "MIT",
     "engines": {
         "node": ">=9.0.0"
     },
